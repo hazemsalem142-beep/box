@@ -28,7 +28,7 @@ parent.style.transition = '10s'
     container.style.transition = '10s'
     parent.style.marginLeft = '9000px'
     setTimeout(() => {
-       location.replace('hazemsalem142-beep.github.io/car/')
+       location.replace('https://hazemsalem142-beep.github.io/box/hazemsalem142-beep.github.io/car/')
     },2000)
     },900)
     
@@ -40,4 +40,5 @@ i1.onclick = () => {fun()}
 i2.onclick = () => {fun()}
 i3.onclick = () => {fun()}
 i4.onclick = () => {fun()}
+
 i5.onclick = () => {fun()}

@@ -1,0 +1,56 @@
+@media screen and (max-width: 999999px) {
+    #container {
+        height: 51px;
+        background-color: rgb(228, 89, 8);
+        width: 40px;
+        text-align: center;
+        margin: auto;
+        justify-content: center;
+        transition: 22s;
+        cursor: pointer;
+    }
+    #parent {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        height: 100vh;
+        transition: 22s;
+
+    }
+    body {
+        overflow: hidden;
+        background-color: gray;
+        transition: 22s;
+
+    }
+   #images{
+    text-align: center;
+        transition: 22s;
+
+}
+#point{
+    display: none;
+        transition: 22s;
+
+}
+#images img{
+    cursor: pointer;
+padding-left: 140px;
+margin-top: 0;
+        transition: 22s;
+
+}
+}
+ @media screen  and  (max-width:600px){
+    
+#images img{
+    cursor: pointer;
+padding-left: 10px;
+margin: auto;
+margin-top: 0;
+        transition: 22s;
+
+}
+} 
+
+/* 467 */
